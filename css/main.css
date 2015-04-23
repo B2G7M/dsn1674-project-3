@@ -7,11 +7,12 @@ html {
 	box-sizing: inherit;}
 
 header {
-	font-family: 'EB Garamond', serif;}
+	font-family: 'EB Garamond', serif;
+	margin: 0;}
 
 .logo{
-	width:37px;
-	text-shadow: 0 2px 5px #111111}
+	width:10%;
+	float:left;}
 
 body {
 	margin: 0;}
@@ -20,6 +21,7 @@ body {
 
 h1{
 	font-family: 'EB Garamond', serif;
+	font-size: 30px;
 	line-height: 100%;}
 
 .best{
@@ -79,6 +81,12 @@ figcaption {
 	color: #fff;}
 
 /*Navigation*/
+
+a {
+	text-decoration: none;
+	color: #000;
+	width:33%;
+	font-size: 1.5em;}
 
 nav {
 	display: block;
