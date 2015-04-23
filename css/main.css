@@ -10,7 +10,8 @@ header {
 	font-family: 'EB Garamond', serif;}
 
 .logo{
-	width:37px;}
+	width:37px;
+	text-shadow: 0 2px 5px #111111}
 
 body {
 	margin: 0;}
@@ -18,8 +19,17 @@ body {
 /*Text*/
 
 h1{
-	font-family: 'EB Garamond', serif;
+	font-family: 'Pinyon Script', cursive;
 	line-height: 100%;}
+
+.best{
+	margin: 5% 5% 0 5%;
+	bottom: 10%;
+	color: white;
+	font-size: 5rem;
+	text-shadow: 0 2px 5px #111111;
+	width:100%;
+	position: absolute;}
 
 h2{
 	font-family: 'Pinyon Script', cursive;
@@ -27,10 +37,14 @@ h2{
 	margin: 0.5em 0 10px 40px;}
 
 p {
-	margin: 0 10px 10px 33%;
+	margin: 0 10px 0px 33%;
 	text-align: left;
 	font-size: 16px;
 	font-family: 'EB Garamond', serif;}
+
+.center{
+	text-align: center;
+	margin:20px;}
 
 footer a{
 	text-decoration: none;
