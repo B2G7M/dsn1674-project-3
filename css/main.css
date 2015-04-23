@@ -80,13 +80,17 @@ figcaption {
     padding: .2em;
 	color: #fff;}
 
+.facebook{
+	width:30%;}
+
 /*Navigation*/
 
 a {
 	text-decoration: none;
 	color: #000;
 	width:33%;
-	font-size: 1.5em;}
+	font-size: 1.5em;
+	font-family: 'EB Garamond', serif; }
 
 nav {
 	display: block;
