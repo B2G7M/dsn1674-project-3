@@ -123,10 +123,10 @@ nav a {
 	text-decoration: none;}
 
 .top { 
-	text-align: center;
+	width: 100%;
+	margin: 0 33% 0 33%;
 	color: #000;
-	font-size: 1.1em;
-	margin: 0;}
+	font-size: 1em;}
 
 footer{
 	margin: 0;
